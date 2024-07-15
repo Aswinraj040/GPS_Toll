@@ -1,5 +1,7 @@
 Step 1 : Download the apk file which is available then run the server.py file which in the below link
+
 Step 2 : https://github.com/Aswinraj040/GPS_TOLL_BASED_SIMULATION_PYTHON
+
 Step 3 : Then run the GPS.py file which is in the above link
 
 The GPS_Toll application is designed to automate the toll collection process by using live GPS coordinates transmitted from your mobile phone. The application communicates with a local server to send and receive necessary data, ensuring that the toll amount is dynamically calculated and debited from the user's account based on the vehicle's movement. This document provides a comprehensive overview of the application's functionality, from initial setup to continuous operation.
